@@ -1,0 +1,13 @@
+#heading{
+    color: rgb(255, 102, 0);
+    font-size: 25px;
+    align-content: center;
+    padding: 5px;
+    margin: 5px;
+    display: flex;
+}
+.left-aligned-image {
+    max-width: 100px; /* Adjust the size of the image as needed */
+    height: auto;
+    float: right;
+}
